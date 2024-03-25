@@ -15,4 +15,29 @@ This is a simple To-Do List application built with React.js. It allows users to 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/KevinLo1101/To-Do-Docker-image-.git
+   ```
+# Start application 
+
+   ```
+   cd To-Do-Docker-image-
+   ```
+
+Start with Docker image
+
+   ```
+   docker compose-up
+   ```
+# Start application (Method 2)
+Install dependencies
+
+   ```
+   npm install
+   ```
+
+Run application
+
+   ```
+   npm start
+   ```
+
